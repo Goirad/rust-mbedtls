@@ -262,7 +262,7 @@ pub const DEFAULT_DEFINES: &'static [CDefine] = &[
     ("MBEDTLS_HAVEGE_C",                                  Undefined),
     ("MBEDTLS_HKDF_C",                                    Defined),
     ("MBEDTLS_HMAC_DRBG_C",                               Defined),
-    ("MBEDTLS_NIST_KW_C",                                 Undefined),
+    ("MBEDTLS_NIST_KW_C",                                 Defined),
     ("MBEDTLS_MD_C",                                      Defined),
     ("MBEDTLS_MD2_C",                                     Defined),
     ("MBEDTLS_MD4_C",                                     Defined),
